@@ -1,0 +1,52 @@
+{
+  "source": "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/Previews/iphonesimulator/iQuiz/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Your Score: %lld out of %lld"
+      },
+      {
+        "comment": "",
+        "key": "Quiz Result"
+      },
+      {
+        "comment": "",
+        "key": "Perfect!"
+      },
+      {
+        "comment": "",
+        "key": "Try to Learn More!"
+      },
+      {
+        "comment": "",
+        "key": "Back"
+      },
+      {
+        "comment": "",
+        "key": "Submit"
+      },
+      {
+        "comment": "",
+        "key": "Next"
+      },
+      {
+        "comment": "",
+        "key": "Data Source URL"
+      },
+      {
+        "comment": "",
+        "key": "Check Out"
+      },
+      {
+        "comment": "",
+        "key": "Quiz Categories"
+      },
+      {
+        "comment": "",
+        "key": "Settings"
+      }
+    ]
+  },
+  "version": 1
+}

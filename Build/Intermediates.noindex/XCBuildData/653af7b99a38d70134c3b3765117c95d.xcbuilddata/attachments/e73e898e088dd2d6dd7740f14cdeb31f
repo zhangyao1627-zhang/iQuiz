@@ -1,0 +1,88 @@
+{
+  "" : {
+    "diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuiz-master.dia",
+    "emit-module-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuiz-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuiz-master-emit-module.dia",
+    "swift-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuiz-master.swiftdeps"
+  },
+  "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/DerivedSources/CoreDataGenerated/iQuiz/iQuiz+CoreDataModel.swift" : {
+    "const-values" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuiz+CoreDataModel.swiftconstvalues",
+    "dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuiz+CoreDataModel.d",
+    "diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuiz+CoreDataModel.dia",
+    "index-unit-output-path" : "/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuiz+CoreDataModel.o",
+    "llvm-bc" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuiz+CoreDataModel.bc",
+    "object" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuiz+CoreDataModel.o",
+    "swift-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuiz+CoreDataModel.swiftdeps",
+    "swiftmodule" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuiz+CoreDataModel~partial.swiftmodule"
+  },
+  "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/DerivedSources/CoreDataGenerated/iQuiz/Item+CoreDataClass.swift" : {
+    "const-values" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataClass.d",
+    "diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataClass.dia",
+    "index-unit-output-path" : "/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataClass.o",
+    "llvm-bc" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataClass.bc",
+    "object" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataClass.o",
+    "swift-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/DerivedSources/CoreDataGenerated/iQuiz/Item+CoreDataProperties.swift" : {
+    "const-values" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataProperties.d",
+    "diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataProperties.dia",
+    "index-unit-output-path" : "/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataProperties.o",
+    "llvm-bc" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataProperties.bc",
+    "object" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Item+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/iQuiz/ContentView.swift" : {
+    "const-values" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/iQuiz/Data.swift" : {
+    "const-values" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Data.swiftconstvalues",
+    "dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Data.d",
+    "diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Data.dia",
+    "index-unit-output-path" : "/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Data.o",
+    "llvm-bc" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Data.bc",
+    "object" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Data.o",
+    "swift-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Data.swiftdeps",
+    "swiftmodule" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Data~partial.swiftmodule"
+  },
+  "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/iQuiz/iQuizApp.swift" : {
+    "const-values" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuizApp.swiftconstvalues",
+    "dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuizApp.d",
+    "diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuizApp.dia",
+    "index-unit-output-path" : "/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuizApp.o",
+    "llvm-bc" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuizApp.bc",
+    "object" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuizApp.o",
+    "swift-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuizApp.swiftdeps",
+    "swiftmodule" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/iQuizApp~partial.swiftmodule"
+  },
+  "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/iQuiz/Persistence.swift" : {
+    "const-values" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Persistence.swiftconstvalues",
+    "dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Persistence.d",
+    "diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Persistence.dia",
+    "index-unit-output-path" : "/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Persistence.o",
+    "llvm-bc" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Persistence.bc",
+    "object" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Persistence.o",
+    "swift-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Persistence.swiftdeps",
+    "swiftmodule" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/iQuiz.build/Debug-iphonesimulator/iQuiz.build/Objects-normal/arm64/Persistence~partial.swiftmodule"
+  }
+}

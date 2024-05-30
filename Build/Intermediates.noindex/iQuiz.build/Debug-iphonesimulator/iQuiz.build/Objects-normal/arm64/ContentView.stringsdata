@@ -1,0 +1,52 @@
+{
+  "source": "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/iQuiz/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Quiz Categories"
+      },
+      {
+        "comment": "",
+        "key": "Settings"
+      },
+      {
+        "comment": "",
+        "key": "Data Source URL"
+      },
+      {
+        "comment": "",
+        "key": "Check Out"
+      },
+      {
+        "comment": "",
+        "key": "Submit"
+      },
+      {
+        "comment": "",
+        "key": "Next"
+      },
+      {
+        "comment": "",
+        "key": "Quiz Result"
+      },
+      {
+        "comment": "",
+        "key": "Your Score: %lld out of %lld"
+      },
+      {
+        "comment": "",
+        "key": "Perfect!"
+      },
+      {
+        "comment": "",
+        "key": "Try to Learn More!"
+      },
+      {
+        "comment": "",
+        "key": "Back"
+      }
+    ]
+  },
+  "version": 1
+}

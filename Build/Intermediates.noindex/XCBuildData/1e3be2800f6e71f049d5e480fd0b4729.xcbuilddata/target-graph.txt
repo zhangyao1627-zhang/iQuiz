@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'iQuizUITests' in project 'iQuiz'
+➜ Explicit dependency on target 'iQuiz' in project 'iQuiz'
+Target 'iQuizTests' in project 'iQuiz'
+➜ Explicit dependency on target 'iQuiz' in project 'iQuiz'
+Target 'iQuiz' in project 'iQuiz' (no dependencies)

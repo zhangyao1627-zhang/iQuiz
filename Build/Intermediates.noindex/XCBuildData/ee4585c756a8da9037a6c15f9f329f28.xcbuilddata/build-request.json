@@ -1,0 +1,209 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "fea65db427d90a3c276c81f02e2d6b9fb4fd9dd442b4bfa798e61868f077bd9f",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Products",
+          "derivedDataPath" : "/Users/zhangyao1627/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/zhangyao1627/Library/Developer/Xcode/DerivedData/iQuiz-fjneooglygvnmcbwcpvorlnvejzv/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/zhangyao1627/Library/Developer/Xcode/DerivedData/iQuiz-fjneooglygvnmcbwcpvorlnvejzv/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/CodeCoverage/ProfileData",
+              "DSTROOT" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/Previews/iphonesimulator/iQuiz/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/Previews/iphonesimulator/iQuiz/Intermediates.noindex",
+              "SYMROOT" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/Previews/iphonesimulator/iQuiz/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "AF57A03C-FBEE-40C1-8E5B-36C1B1F6004C",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "fea65db427d90a3c276c81f02e2d6b9f33726c495abb72dda5da69b9282f888a",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Products",
+          "derivedDataPath" : "/Users/zhangyao1627/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/zhangyao1627/Library/Developer/Xcode/DerivedData/iQuiz-fjneooglygvnmcbwcpvorlnvejzv/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/zhangyao1627/Library/Developer/Xcode/DerivedData/iQuiz-fjneooglygvnmcbwcpvorlnvejzv/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/CodeCoverage/ProfileData",
+              "DSTROOT" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/Previews/iphonesimulator/iQuiz/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/Previews/iphonesimulator/iQuiz/Intermediates.noindex",
+              "SYMROOT" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/Previews/iphonesimulator/iQuiz/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "AF57A03C-FBEE-40C1-8E5B-36C1B1F6004C",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "fea65db427d90a3c276c81f02e2d6b9fd261da73971c7b0fc72a2983aee832ad",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Products",
+          "derivedDataPath" : "/Users/zhangyao1627/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/zhangyao1627/Library/Developer/Xcode/DerivedData/iQuiz-fjneooglygvnmcbwcpvorlnvejzv/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/zhangyao1627/Library/Developer/Xcode/DerivedData/iQuiz-fjneooglygvnmcbwcpvorlnvejzv/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/CodeCoverage/ProfileData",
+              "DSTROOT" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/Previews/iphonesimulator/iQuiz/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/Previews/iphonesimulator/iQuiz/Intermediates.noindex",
+              "SYMROOT" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/Previews/iphonesimulator/iQuiz/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "AF57A03C-FBEE-40C1-8E5B-36C1B1F6004C",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/iQuiz.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Products",
+      "derivedDataPath" : "/Users/zhangyao1627/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zhangyao1627/Library/Developer/Xcode/DerivedData/iQuiz-fjneooglygvnmcbwcpvorlnvejzv/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zhangyao1627/Library/Developer/Xcode/DerivedData/iQuiz-fjneooglygvnmcbwcpvorlnvejzv/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/zhangyao1627/Documents/Code/Swift/iQuiz/Build/Intermediates.noindex/CodeCoverage/ProfileData",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "AF57A03C-FBEE-40C1-8E5B-36C1B1F6004C",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

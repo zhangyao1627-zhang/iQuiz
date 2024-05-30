@@ -16,6 +16,8 @@
 		59C180AD2BE8493E001C5032 /* iQuizTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59C180AC2BE8493E001C5032 /* iQuizTests.swift */; };
 		59C180B72BE8493E001C5032 /* iQuizUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59C180B62BE8493E001C5032 /* iQuizUITests.swift */; };
 		59C180B92BE8493E001C5032 /* iQuizUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59C180B82BE8493E001C5032 /* iQuizUITestsLaunchTests.swift */; };
+		59C180C92BE84C8C001C5032 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59C180C82BE84C8C001C5032 /* Data.swift */; };
+		59F086982BEB26FF00A5D819 /* datatest.json in Sources */ = {isa = PBXBuildFile; fileRef = 59F086972BEB26FF00A5D819 /* datatest.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +50,9 @@
 		59C180B22BE8493E001C5032 /* iQuizUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iQuizUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		59C180B62BE8493E001C5032 /* iQuizUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iQuizUITests.swift; sourceTree = "<group>"; };
 		59C180B82BE8493E001C5032 /* iQuizUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iQuizUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		59C180C82BE84C8C001C5032 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		59F086972BEB26FF00A5D819 /* datatest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = datatest.json; sourceTree = "<group>"; };
+		59F0869B2BEB344D00A5D819 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,12 +103,15 @@
 		59C180952BE8493D001C5032 /* iQuiz */ = {
 			isa = PBXGroup;
 			children = (
+				59F0869B2BEB344D00A5D819 /* Info.plist */,
 				59C180962BE8493D001C5032 /* iQuizApp.swift */,
 				59C180982BE8493D001C5032 /* ContentView.swift */,
-				59C1809A2BE8493E001C5032 /* Assets.xcassets */,
 				59C1809F2BE8493E001C5032 /* Persistence.swift */,
+				59C1809A2BE8493E001C5032 /* Assets.xcassets */,
+				59C180C82BE84C8C001C5032 /* Data.swift */,
 				59C180A12BE8493E001C5032 /* iQuiz.xcdatamodeld */,
 				59C1809C2BE8493E001C5032 /* Preview Content */,
+				59F086972BEB26FF00A5D819 /* datatest.json */,
 			);
 			path = iQuiz;
 			sourceTree = "<group>";
@@ -264,6 +272,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				59C180A32BE8493E001C5032 /* iQuiz.xcdatamodeld in Sources */,
+				59F086982BEB26FF00A5D819 /* datatest.json in Sources */,
+				59C180C92BE84C8C001C5032 /* Data.swift in Sources */,
 				59C180A02BE8493E001C5032 /* Persistence.swift in Sources */,
 				59C180992BE8493D001C5032 /* ContentView.swift in Sources */,
 				59C180972BE8493D001C5032 /* iQuizApp.swift in Sources */,
@@ -433,6 +443,8 @@
 				DEVELOPMENT_TEAM = 9Y5YH6S952;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = iQuiz/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -462,6 +474,8 @@
 				DEVELOPMENT_TEAM = 9Y5YH6S952;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = iQuiz/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
